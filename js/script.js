@@ -5,7 +5,7 @@
 ///////////////////
 //
 const urlApiLista = "https://pokeapi.co/api/v2/pokemon?limit=1126";
-/*  
+/*
 Esta api es el endpoint de lista completa de pokemons y devuelve un objeto, con 4 propiedades:
   + results: array de objetos que represena un catalogo de pokemons registrados en la api, en el q cada objeto representa un pokemon, con dos propiedades:
     -- name: string; nombre del pokemon
